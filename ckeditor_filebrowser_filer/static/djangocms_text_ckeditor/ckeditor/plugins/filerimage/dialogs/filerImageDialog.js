@@ -80,6 +80,7 @@
 						id: 'alignment',
 						label: commonLang.align,
 						items: [
+							['--', ''],
 							[commonLang.alignLeft, 'left'],
 							[commonLang.alignRight, 'right']
 						],
